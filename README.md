@@ -77,6 +77,12 @@ AppDebugLogger.instance.clear();
 
 ```
 
+### 4. Demo
+
+| Hidden State (Bug Button) | Visible State (Console) |
+| :---: | :---: |
+| <img width="300" alt="Hidden State" src="https://github.com/user-attachments/assets/12f2cafc-32ba-4f26-aa82-eee07df38f0d" /> | <img width="300" alt="Visible State" src="https://github.com/user-attachments/assets/506b5b78-a17b-46d3-bb87-18dec2002da9" /> |
+
 ---
 
 ## 🎛️ Log Types
